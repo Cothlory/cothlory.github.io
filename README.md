@@ -1,2 +1,2 @@
-# UlyssesZh.github.io
-Ulysses Zhan's blog!
+# glorythunder.github.io
+Glorythunder's blog!
